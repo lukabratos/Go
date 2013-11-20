@@ -1,4 +1,4 @@
-Go
+Go playground.
 ==
 
-You gotta love little gopher.
+![golang logo](http://cdn.dice.com/wp-content/uploads/2012/03/google-go-logo.jpg "Go")
